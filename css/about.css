@@ -106,19 +106,25 @@
 }
 
 .img1{
-	width: 100%;
+	 width: 100%;
     color: white;
-    height: 95%;
+    height: 90%;
+    
     box-shadow: 0 0px 0px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
     }
 }
 
 @media(max-width: 768px)
 {
-  .img{
-    width: 100%;
+  .img1{
+  
+    height: 500px;
+    
+
   }
 }
+
+
 
 .why{
   background-image: url(https://www.firstfiddle.in/assets/images/gamebanner.jpg);

@@ -1,0 +1,33 @@
+.c{
+	background: #edebde;
+	border-radius: 10px;
+}
+
+.d{
+	background: #b10700;
+	color: white;
+	border-radius: 15px;
+	text-align: center;
+	font-weight: normal;
+	font-family: 'Gwendolyn', cursive ;
+	font-size: 30px;
+
+}
+
+.left{
+	background-image: url(https://www.shriramcaterers.com/images/content-shadow.png);
+	border-radius: 5px;
+}
+
+.f{
+		border: 2px solid;
+		text-align: center;
+		color: white;
+		font-family: 'Gwendolyn', cursive ;
+		border-radius: 20px;
+		background: #b10700;
+		font-size: 30px;
+		font-weight: bold;
+		padding: 15px;
+		margin: 20px;
+}
